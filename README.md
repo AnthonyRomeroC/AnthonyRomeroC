@@ -1,6 +1,6 @@
 <!-- This README.md is based on README from @Pratham31 (https://github.com/Pratham31) and @Psotob (https://github.com/psotob) -->
 
-<h2>{Hola mundo!}</h2>
+<h2>{Hola mundo}</h2>
 
 <img src="https://github.com/AnthonyRomeroC/personal/blob/main/final.gif" height="430" width="400" align="right"></img>
 
@@ -30,10 +30,10 @@ As a scientist in training, I am actively involved in research and data science 
 ## &#x1f4c8; GitHub Stats
 
   <a href="https://github.com/AnthonyRomeroC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyRomeroC&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=101f2c&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyRomeroC&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=101f2c&langs_count=3"/>
 </a>
 <a href="https://github.com/AnthonyRomeroC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyRomeroC&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=101f2c" alt="Anthony's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyRomeroC&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=101f2c" alt="Anthony's GitHub Stats"/>
 </a>
 
 <!-- links to social media icons -->
