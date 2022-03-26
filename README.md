@@ -5,7 +5,7 @@
 <img src="https://github.com/AnthonyRomeroC/personal/blob/main/final.gif" height="430" width="400" align="right"></img>
 
 ## It's Anthony Romero here 👋
-I am a student of Human Medicine at the Universidad Nacional Mayor de San Marcos and member of ADIECS. I am a constant learner building small projects. I love experimenting new technologies and participate in projects with R, HTML and CSS applied to Data Science in Health, as well as scientific research, biostatistics and epidemiology in public health. <br>
+My name is Anthony Romero-Cerdán and I'm a medical student at the Universidad Nacional Mayor de San Marcos and member of ADIECS. Peruvian by birth, living in Lima. I am a continuous learner who likes to build small projects. I enjoy experimenting with new technologies and participate in projects with R, HTML and CSS applied to Data Science in Health, as well as medical research, biostatistics and clinical and public health epidemiology. <br>
 <br>
 You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
@@ -13,18 +13,18 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Scientific Profile
 
-As a future scientist, I am actively involved in research and data science projects and I publish my research as papers in peer-review journal. You can find my articles on my [Google Scholar's Profile](https://scholar.google.com/citations?user=bSpylR0AAAAJ&hl=es), as well as my [ORCiD's page](https://orcid.org/0000-0001-6342-647X) or [CTI VITAE](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=138155). 
+As a scientist in training, I am actively involved in research and data science projects and I publish my research as papers in peer-review journals. My publications can be found on my [Google Scholar's Profile](https://scholar.google.com/citations?user=bSpylR0AAAAJ&hl=es), as well as my [ORCiD's page](https://orcid.org/0000-0001-6342-647X) or [CTI VITAE](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=138155). 
 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-R%20project-informational?style=flat&logo=R&logoColor=white&color=38761d)
 ![](https://img.shields.io/badge/Code-R%20Studio-informational?style=flat&logo=RStudio&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=38761d)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=38761d)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=38761d)
 ![](https://img.shields.io/badge/Tools-Zotero-informational?style=flat&logo=zotero&logoColor=white&color=38761d)
 ![](https://img.shields.io/badge/Tools-Mendeley-informational?style=flat&logo=mendeley&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Tools-HTML-informational?style=flat&logo=html&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css&logoColor=white&color=38761d)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=38761d)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=38761d)
 ![](https://img.shields.io/badge/Code-Stata-informational?style=flat&logoColor=white&color=38761d)
 
 ## &#x1f4c8; GitHub Stats
