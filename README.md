@@ -1,9 +1,8 @@
-<!-- This README.md is mainly based on README from @EDITAR (https://github.com/MartinHeinz/MartinHeinz) -->
+<!-- This README.md is mainly based on README from @Pratham31 (https://github.com/Pratham31) -->
+
 <h2>Hola mundo!</h2>
 
-
 <img src="https://github.com/AnthonyRomeroC/personal/blob/main/final.gif" height="430" width="400" align="right"></img>
-
 
 ## It's Anthony Romero here 👋
 I am a student of Human Medicine at the Universidad Nacional Mayor de San Marcos and member of ADIECS. I am a constant learner building small projects. I love experimenting new technologies and participate in projects with R, HTML and CSS applied to Data Science in Health, as well as scientific research, biostatistics and epidemiology in public health. You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
