@@ -25,7 +25,7 @@ As a scientist in training, I am actively involved in research and data science 
 ![](https://img.shields.io/badge/Tools-Mendeley-informational?style=flat&logo=mendeley&logoColor=white&color=38761d)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=38761d)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Code-Stata-informational?style=flat&logoColor=white&color=38761d)
+<!--![](https://img.shields.io/badge/Code-Stata-informational?style=flat&logoColor=white&color=38761d) -->
 
 ## &#x1f4c8; GitHub Stats
 
