@@ -2,7 +2,7 @@
 
 <h2>{Hola mundo}</h2>
 
-<img src="https://github.com/AnthonyRomeroC/personal/blob/main/final.gif" height="430" width="400" align="right"></img>
+<img src="https://github.com/AnthonyRomeroC/AnthonyRomeroC/blob/main/final.gif" height="430" width="400" align="right"></img>
 
 ## It's Anthony Romero here 👋
 My name is Anthony Romero-Cerdán and I'm a medical student at the Universidad Nacional Mayor de San Marcos and member of ADIECS. Peruvian by birth, living in Lima. I am a continuous learner who likes to build small projects. I enjoy experimenting with new technologies and participate in projects with R, HTML and CSS applied to Data Science in Health, as well as medical research, biostatistics and clinical and public health epidemiology. <br>
