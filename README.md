@@ -2,7 +2,7 @@
 
 <h2>{Hola mundo} <img src="https://github.com/psotob/psotob/blob/main/Gifts/wave.gif?raw=true" width="30px"> </h2>
 
-<img src="https://github.com/AnthonyRomeroC/AnthonyRomeroC/blob/main/final.gif" height="430" width="400" align="right"></img>
+<img src="https://github.com/ganthonyr/AnthonyRomeroC/blob/main/final.gif" height="430" width="400" align="right"></img>
 
 ## It's Anthony Romero here ✋
 My name is Anthony Romero-Cerdán and I'm a medical student at the Universidad Nacional Mayor de San Marcos and member of ADIECS. Peruvian by birth, living in Lima. I am a continuous learner who likes to build small projects. I enjoy experimenting with new technologies and participate in projects with R, HTML and CSS applied to Data Science in Health, as well as medical research, biostatistics and clinical and public health epidemiology. <br>
@@ -29,10 +29,10 @@ As a scientist in training, I am actively involved in research and data science 
 
 ## &#x1f4c8; GitHub Stats
 
-  <a href="https://github.com/AnthonyRomeroC/AnthonyRomeroC">
+  <a href="https://github.com/ganthonyr/AnthonyRomeroC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyRomeroC&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=101f2c&langs_count=3" />
 </a>
-<a href="https://github.com/AnthonyRomeroC/AnthonyRomeroC">
+<a href="https://github.com/ganthonyr/AnthonyRomeroC">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyRomeroC&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=101f2c" alt="Anthony's GitHub Stats"/>
 </a>
 
