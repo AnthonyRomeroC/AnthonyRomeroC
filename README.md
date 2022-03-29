@@ -32,8 +32,8 @@ As a scientist in training, I am actively involved in research and data science 
   <a href="https://github.com/ganthonyr/ganthonyr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganthonyr&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=101f2c&langs_count=3" />
 </a>
-<a href="https://github.com/ganthonyr/AnthonyRomeroC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganthonyr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=101f2c" alt="Anthony's GitHub Stats"/>
+<a href="https://github.com/ganthonyr/ganthonyr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganthonyr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=101f2c" alt="Anthony's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
