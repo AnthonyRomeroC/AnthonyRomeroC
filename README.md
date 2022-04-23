@@ -8,7 +8,7 @@
 My name is Anthony Romero-Cerdán and I'm a medical student at the Universidad Nacional Mayor de San Marcos and member of ADIECS. Peruvian by birth, living in Lima. I am a continuous learner who likes to build small projects. I enjoy experimenting with new technologies and participate in projects with R, HTML and CSS applied to Data Science in Health, as well as medical research, biostatistics and clinical and public health epidemiology.
 
 * 🧠 I'm learning R language, HTML & CSS, soon also in Python.
-* 🤝 I'm open to collaborating on health data science projects. 😉
+* 🤝 I'm open to collaborating on health data science projects.
 
 ##  Contact me
 <a href="https://www.linkedin.com/in/garomeroc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Anthonyrc94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
