@@ -1,10 +1,10 @@
 <!-- This README.md is based on README from @Pratham31 (https://github.com/Pratham31) and @Psotob (https://github.com/psotob) -->
 
-<h2>{Hola mundo} <img src="https://github.com/ganthonyr/ganthonyr/blob/main/wave.gif" width="30px"> </h2>
+<h2>{Hola mundo} ✋ <!--<img src="https://github.com/ganthonyr/ganthonyr/blob/main/wave.gif" width="30px"> </h2>-->
 
 <img src="https://github.com/ganthonyr/ganthonyr/blob/main/final.gif" height="430" width="400" align="right"></img>
 
-## It's Anthony Romero here ✋
+## It's Anthony Romero here 
 My name is Anthony Romero-Cerdán and I'm a medical student at the Universidad Nacional Mayor de San Marcos and member of ADIECS. Peruvian by birth, living in Lima. I am a continuous learner who likes to build small projects. I enjoy experimenting with new technologies and participate in projects with R, HTML and CSS applied to Data Science in Health, as well as medical research, biostatistics and clinical and public health epidemiology.
 
 * 🧠 I'm learning R language, HTML & CSS, soon also in Python.
